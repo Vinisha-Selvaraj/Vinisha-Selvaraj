@@ -1,4 +1,4 @@
-👋I am Vinisha selvaraj. My main interest in software development. I like working on challenging projects and am always curious to learn new things.
+👋I am Vinisha selvaraj. My primary interest in software development lies in web development,mobile development... I like working on challenging projects and am always curious to learn new things.
 - 😄 I am a python Developer.
 - 🌱 I’m currently learning devops.
 - 👯 I’m looking to collaborate on Open Sourced Python 🐍 projects.
